@@ -17,11 +17,13 @@ performed several tests on a dataset to predict properties in lisbon
 - Random Forest Decision
 
 📋 Tools:
-- Pandas
-- Seaborn
-- Numpy
-- Matplotlib
-- Scikit-Learn
+- Pandas(Data vizualization)
+- Numpy (Scientific Computing)
+- Matplotlib (Graphics and data vizualization)
+- Seaborn (Data Visualization)
+- Sklearn (Preprocessing and Metrics)
+- Streamlit (Create data app)
+- Heroku (deploy)
 
 ### Free Regression Course with Machine Learning: https://www.coursera.org/learn/ml-regression
 
