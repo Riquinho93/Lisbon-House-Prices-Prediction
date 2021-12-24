@@ -2,17 +2,21 @@
 
 App: [Lisbon Housing Price Prediction] (https://apphousepredict.herokuapp.com/)
 
-## Objective
+![Lisbon](https://github.com/Riquinho93/Lisbon-House-Prices-Prediction/blob/main/assets/lisbon.PNG)
 
-In order to delve deeper into data analysis and regression studies,
+📚 Objective
+
+HPLP is an application to predict the cost of a property in Lisbon. The user enters their attributes and the algorithm present in the app predicts real-time property value. The link to access the application is below.
+
+ In order to delve deeper into data analysis and regression studies,
 performed several tests on a dataset to predict properties in lisbon
 
-### Techniques:
+📋 Techniques:
 - Linear Regression
 - Decision tree
 - Random Forest Decision
 
-### Tools:
+📋 Tools:
 - Pandas
 - Seaborn
 - Numpy
